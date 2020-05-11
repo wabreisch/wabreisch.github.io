@@ -1,0 +1,2 @@
+(this["webpackJsonpwabreisch.github.io"]=this["webpackJsonpwabreisch.github.io"]||[]).push([[0],[,,,function(e,t,n){e.exports=n(10)},,,,,function(e,t,n){},function(e,t,n){},function(e,t,n){"use strict";n.r(t);var i=n(0),r=n.n(i),a=n(2),c=n.n(a);n(8),n(9);var o=function(){return r.a.createElement("div",{className:"App"},"Working on it \ud83d\udd25")};c.a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(o,null)),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.199b9a50.chunk.js.map
